@@ -1,1 +1,1 @@
-# Home_Sales
+This project uses Spark to work with a large data set to make tables and execute queries about home sales over several years. 
